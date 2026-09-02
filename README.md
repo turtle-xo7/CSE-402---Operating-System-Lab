@@ -8,3 +8,6 @@ Source code and output for each lab, added weekly.
 | Lab 3 | FCFS vs SJF CPU Scheduling | [23101151.py](Lab3-SJF/23101151.py) | [output.png](Lab3-SJF/output.png) |
 | Lab 4 | Round Robin CPU Scheduling | [23101151.py](Lab4-RoundRobin/23101151.py) | [Output 1](Lab4-RoundRobin/output.png) · [Output 2](Lab4-RoundRobin/output2.png) |
 | Lab 5 | Preemptive SJF CPU Scheduling | [23101151.py](Lab%205_SJF_preemptive%20/23101151.py) | [output.png](Lab%205_SJF_preemptive%20/output.png) |
+| Lab 6 | Priority CPU Scheduling | [23101151.py](Lab6-Priority/23101151.py) | [output.png](Lab6-Priority/output.png) |
+
+
